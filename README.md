@@ -1,5 +1,5 @@
 # FTX-Arbitrage-Bot
- This is a trangular arbitrage bot arbitraging on FTX exchange
+ This is a trangular arbitrage bot trading on FTX exchange
 
 To deploy:
 - Input your API key & secret from FTX
@@ -9,6 +9,6 @@ To deploy:
 python3 app.py
 ```
 
-## Some notes to self on the trading bot (update: 26-6-2021)
+## Notes to self (update: 26-6-2021)
 - This trading bot was built at the time I knew nothing about OOP
 - Trading logic of the bot is working but lots of improvements are needed for the code (e.g. style, structure, logging)
